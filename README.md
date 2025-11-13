@@ -7,4 +7,4 @@ hej jag testar.
 * två
 * tre
 
-Detta är en ```kod´´´
+Detta är en ```kod```
