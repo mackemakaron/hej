@@ -10,4 +10,5 @@ hej jag testar.
 Detta är en ```kod```
 
 | kolumn 1 | kolumn 2 |
-| hejhej | tjabba |
+| --- | --- |
+| hej | hejsan |
