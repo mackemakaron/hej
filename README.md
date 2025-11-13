@@ -6,3 +6,5 @@ hej jag testar.
 * ett
 * två
 * tre
+
+Detta är en ```kod´´´
